@@ -20,11 +20,11 @@ This project analyzes 1,500 retail orders placed across India in 2018, covering 
 link: https://www.kaggle.com/datasets/samruddhi4040/online-sales-data
 
 ### 🛠️ Tech Stack
-- Python 3 — data cleaning & exploratory analysis
-  - pandas — data wrangling
-  - matplotlib / seaborn — visualization during EDA
-- Power BI Desktop — interactive dashboard & reporting
-- DAX — calculated measures inside Power BI
+- Python 3 - data cleaning & exploratory analysis
+  - pandas - data wrangling
+  - matplotlib / seaborn - visualization during EDA
+- Power BI Desktop - interactive dashboard & reporting
+- DAX - calculated measures inside Power BI
 
 ## 📊 Dashboard Preview
 ![Sales Dashboard](assets/sales-performance-analysis-dashboard.jpg)
